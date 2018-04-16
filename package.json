@@ -1,13 +1,27 @@
 {
   "name": "create-reducer-ts",
   "version": "1.0.0",
+  "description": "typescript friendly createReducer function",
+  "keywords": ["typescript", "redux"],
+  "homepage": "https://github.com/stevenjob/create-reducer-ts",
+  "bugs": {
+    "url": "https://github.com/stevenjob/create-reducer-ts/issues",
+    "email": "steven_job@live.com"
+  },
   "main": "index.js",
-  "license": "MIT",
+  "license": "WTFPL",
   "scripts": {
     "prepare": "npm run build",
     "build": "tsc"
   },
   "devDependencies": {
     "typescript": "^2.8.1"
+  },
+  "author": {
+    "name": "Steven Job"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevenjob/create-reducer-ts"
   }
 }
