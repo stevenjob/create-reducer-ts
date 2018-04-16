@@ -1,0 +1,13 @@
+{
+  "name": "create-reducer-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "prepare": "npm run build",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^2.8.1"
+  }
+}
